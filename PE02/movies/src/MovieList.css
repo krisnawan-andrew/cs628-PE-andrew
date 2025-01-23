@@ -1,0 +1,17 @@
+.movie-list {
+    size: 0;
+    display: block;
+    list-style: none;
+    text-align: left;
+}
+
+.movie-item {
+    outline-style: inset;
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+.whole {
+    height: auto;
+    width: 60%;
+}
